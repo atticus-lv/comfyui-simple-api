@@ -1,0 +1,4 @@
+pillow
+websocket-client
+blinker
+requests
